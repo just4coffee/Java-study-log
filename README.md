@@ -1,2 +1,2 @@
 # Java-study-log
-Notes and documentations for school work
+Notes and documentation for school work
